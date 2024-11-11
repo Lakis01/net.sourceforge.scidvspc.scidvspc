@@ -2,7 +2,7 @@
 Name=scidvspc
 GenericName="scidvspc"
 Comment="Chess Toolkit"
-Exec=scid
+Exec=scid %f
 Icon=scid
 Terminal=false
 Type=Application
